@@ -93,6 +93,7 @@ body {
 
 #features {
   width: 65%;
+  max-width: 950px;
   display: flex;
   flex-direction: column;
   gap: 3.4rem;

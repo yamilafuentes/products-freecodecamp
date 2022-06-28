@@ -1,6 +1,7 @@
 # Landing Page of products  
 
-## FreeCodeCamp Challenge  
+## FreeCodeCamp Challenge for Responsive Web Design Certification
+
 
 Link: https://yamilafuentes.github.io/products-webpage/
 
