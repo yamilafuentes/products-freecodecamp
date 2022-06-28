@@ -1,6 +1,8 @@
 # Landing Page of products  
 
-FreeCodeCamp Challenge  
+## FreeCodeCamp Challenge  
+
+Link: https://yamilafuentes.github.io/products-webpage/
 
 __Objective__:  Build a Product Landing Page
 web page 
